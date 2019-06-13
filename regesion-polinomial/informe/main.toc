@@ -1,0 +1,13 @@
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n te\IeC {\'o}rica}{1}
+\contentsline {section}{\numberline {1.1}Regresi\IeC {\'o}n polinomial}{1}
+\contentsline {subsection}{\numberline {1.1.1}Definiciones}{1}
+\contentsline {subsection}{\numberline {1.1.2}Objetivo}{2}
+\contentsline {section}{\numberline {1.2}Boston Housing Dataset}{2}
+\contentsline {chapter}{\numberline {2}Desarrollo}{4}
+\contentsline {section}{\numberline {2.1}Regresi\IeC {\'o}n Polinomial}{4}
+\contentsline {section}{\numberline {2.2}Boston Housing Dataset}{4}
+\contentsline {chapter}{\numberline {3}Experimentaci\IeC {\'o}n}{5}
+\contentsline {section}{\numberline {3.1}variaci\IeC {\'o}n de los grados de Polinomios}{5}
+\contentsline {chapter}{\numberline {4}Conclusiones}{17}
+\contentsline {section}{\numberline {4.1}Referencias}{17}
