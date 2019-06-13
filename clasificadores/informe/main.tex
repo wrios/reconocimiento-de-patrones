@@ -1,0 +1,38 @@
+\documentclass[12pt, a4paper]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{float}
+\usepackage{geometry} % márgenes
+\usepackage[conEntregas]{caratula} % carátula
+
+\begin{document}
+
+\include{caratula}
+
+\tableofcontents{}
+\begin{abstract}
+    El objetivo de este trabajo práctico es ver como se puede utilizar
+la regresión polinomial para estimar un conjunto de datos mediante
+polinomios. \par
+\indent Para tener una forma de medir y comparar los resultados, 
+se presentán funciones de error y se analiza como 
+afecta al vector que los minimiza. \par 
+\indent Luego se presentará una conocida
+set datos ("Boston Housing Dataset") y la forma de calcular la matriz de
+correlación, junto con un breve analizasis de la feature MEDV
+del set datos.
+\end{abstract}
+
+\chapter{Introducción teórica} 
+\input{intro_teorica_s_edit.tex}
+
+\chapter{Desarrollo}
+\input{desarrollo.tex}
+
+\chapter{Experimentación}
+\input{experimentacion_corregido.tex}
+
+\chapter{Conclusiones}
+\input{conclusiones.tex}
+
+\end{document} 
